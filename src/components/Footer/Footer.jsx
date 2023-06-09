@@ -17,7 +17,7 @@ const Footer = () => {
                     </a>
                     <a href="https://codeforces.com/profile/deepansh09"><img src={codeforces} alt="" /></a>
                     <a href="https://leetcode.com/deepanshmittal09/"><img src={leetcode} alt="" /></a>
-                    <a href="https://github.com/deepanshmittal"><img src={github} alt="" /></a>
+                    <a href="https://github.com/deepanshmittal/fit_club"><img src={github} alt="" /></a>
                 </div>
                 <div className="logo-f">
                     <img src={logo} alt="" />
